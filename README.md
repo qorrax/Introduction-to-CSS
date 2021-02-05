@@ -16,7 +16,7 @@ Follow these steps to set up your project and start working on it:
 - [ ] Clone your forked version (Not Gabi School's by mistake!).
 - [ ] Create a new branch: git checkout -b `<YourFirstName-YourLastName>`.
 - [ ] Implement the project on your newly created `<YourFirstName-YourLastName>` branch, committing changes regularly.
-- [ ] Push commits: git push -u origin `<YourFirstName-YourLastName>`.
+- [ ] Push commits: git push -u origin `mohamed-abdi>`.
 
 ### Task 2: Minimum Viable Product
 
