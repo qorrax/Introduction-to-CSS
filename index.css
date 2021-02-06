@@ -1,1 +1,69 @@
 /* Your CSS goes here */
+* {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  line-height: 1.25rem;
+  font-weight: 700;
+}
+
+.nav h1 {
+      
+  display: inline;
+  
+}
+
+
+.nav {
+   height: 70px;
+   width:100%;
+   background-color: #545454;
+   position: relative;
+     }
+
+
+  
+  
+
+  
+
+.nav .nav-links {
+     display: inline;
+     float: right;
+     margin-left: 20px;
+     font-size: 20px;
+     padding: 10x 200px 10px 10px;
+
+     }
+.nav .nav-links a {
+         display: inline;
+         padding: 13px 10px 13px 200px;
+         text-decoration: none;
+         color: #efefef;
+
+       }
+         
+p { 
+  color: black;
+  font-size: 16px;
+  line-height:1rem;
+
+    }
+
+    
+#main-text {
+  background-color: #e6834c;
+  margin: 0 auto;
+  height: 80;
+  align-content: center;
+  padding: 10px 
+
+
+#main-footer {
+  margin: 0 auto;
+  color: #454f6f;
+}
+  
